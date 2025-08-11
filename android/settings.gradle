@@ -1,0 +1,2 @@
+rootProject.name = "smart_text_replacer"
+include(":app")
